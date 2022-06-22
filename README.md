@@ -1,5 +1,5 @@
 ## ***Setup***
-Make sure to off antiviris before setup!!!
+Make sure to off antivirus before setup!!!
 
 ## ***Usage***
 
